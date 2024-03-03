@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|c:\\users\\thefl\\desktop\\code projects\\html\\twitterclone\\app_code\\posts\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|solutionrelative:app_code\\posts\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|c:\\users\\thefl\\desktop\\code projects\\html\\twitterclone\\app_data\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|solutionrelative:app_data\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|c:\\users\\thefl\\desktop\\code projects\\html\\twitterclone\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|c:\\users\\thefl\\desktop\\code projects\\html\\twitterclone\\app_code\\posts\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|solutionrelative:app_code\\posts\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|c:\\users\\thefl\\desktop\\code projects\\html\\twitterclone\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|c:\\users\\thefl\\desktop\\code projects\\html\\twitterclone\\app_data\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{0CF48630-4D65-4C84-A4A2-B3502BAE5509}|TwitterClone.csproj|solutionrelative:app_data\\schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schema.sql ",
+              "DocumentMoniker": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\App_Data\\Schema.sql",
+              "RelativeDocumentMoniker": "App_Data\\Schema.sql",
+              "ToolTip": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\App_Data\\Schema.sql",
+              "RelativeToolTip": "App_Data\\Schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-03-02T02:21:10.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\App_Code\\Posts\\PostRepository.cs",
+              "RelativeDocumentMoniker": "App_Code\\Posts\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\App_Code\\Posts\\PostRepository.cs",
+              "RelativeToolTip": "App_Code\\Posts\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T02:07:49.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\App_Code\\Posts\\Post.cs",
+              "RelativeDocumentMoniker": "App_Code\\Posts\\Post.cs",
+              "ToolTip": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\App_Code\\Posts\\Post.cs",
+              "RelativeToolTip": "App_Code\\Posts\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:59:53.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Default.aspx.cs",
+              "ToolTip": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\Default.aspx.cs",
+              "RelativeToolTip": "Default.aspx.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T00:51:08.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\thefl\\Desktop\\Code projects\\HTML\\TwitterClone\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-02T00:40:48.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
